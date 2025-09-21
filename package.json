@@ -49,7 +49,7 @@
     "cross-env": "7.0.3",
     "eslint": "8.33.0",
     "eslint-config-prettier": "8.8.0",
-    "eslint-formatter-gha": "1.4.2",
+    "eslint-formatter-gha": "1.6.0",
     "eslint-import-resolver-typescript": "3.5.5",
     "eslint-plugin-import": "2.27.5",
     "eslint-plugin-jest": "27.1.6",
